@@ -1,0 +1,60 @@
+{
+"data" :[
+	{
+  "batchDescription": "Jul23-Team6-BestAssured-SDET96_",
+  "batchName": "Jul23-Team6-BestAssured-RestAssured_",
+  "batchNoOfClasses": 3,
+  "batchStatus": "Active",
+  "programId": 11687
+     },
+ 
+    {
+  "batchDescription": "Jul23-Team6-BestAssured-SDET96_",
+  "batchName": "Jul23-Team6-BestAssured-RestAssured_",
+  "batchNoOfClasses": 3,
+  "batchStatus": "InActive",
+  "programId": 11687
+     },
+  
+   {
+  "batchDescription": "Team6-BestAssured-SDET96-Description",
+  "batchName": "",
+  "batchNoOfClasses": -1,
+  "batchStatus": "",
+  "programId": 11687
+     },
+  
+   {
+  "batchDescription": "Team6-BestAssured-SDET96_t1",
+  "batchName": "",
+  "batchNoOfClasses": 3,
+  "batchStatus": "InActive",
+  "programId": 11687
+     },
+     
+      {
+  "batchDescription": "Team6-BestAssured-SDET96_t1",
+  "batchName": "Team6-BestAssured-batch_BN_",
+  "batchNoOfClasses": -1,
+  "batchStatus": "Active",
+  "programId": 11687
+     },
+     
+         {
+  "batchDescription": "Team6-BestAssured-SDET96_t1",
+  "batchName": "Team6-BestAssured-batch_BN_",
+  "batchNoOfClasses": 2,
+  "batchStatus": "Active",
+     },
+     
+        {
+  "batchDescription": "Team6-BestAssured-SDET96_t1",
+  "batchName": "Team6-BestAssured-batch_BN_",
+  "batchNoOfClasses": 2,
+  "batchStatus": "",
+  "programId": 11687
+     }
+     
+     
+]
+}
