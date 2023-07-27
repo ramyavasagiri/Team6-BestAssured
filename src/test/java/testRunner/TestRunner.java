@@ -7,12 +7,12 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features={"/Users/amruta/eclipse-workspace/team6-RestAssuredBDD/Team6-BestAssured/src/test/resources/featurefiles/01program.feature",
-				"/Users/amruta/eclipse-workspace/team6-RestAssuredBDD/Team6-BestAssured/src/test/resources/featurefiles/02batch.feature",
-				 "/Users/amruta/eclipse-workspace/team6-RestAssuredBDD/Team6-BestAssured/src/test/resources/featurefiles/03user.feature",
-				"/Users/amruta/eclipse-workspace/team6-RestAssuredBDD/Team6-BestAssured/src/test/resources/featurefiles/04assignment.feature",
+		features={"/Users/nihar/eclipse-workspace/Team6-BestAssured/src/test/resources/featurefiles/01program.feature",
+				"/Users/nihar/eclipse-workspace/Team6-BestAssured/src/test/resources/featurefiles/02batch.feature",
+				 "/Users/nihar/eclipse-workspace/Team6-BestAssured/src/test/resources/featurefiles/03user.feature",
+				"/Users/nihar/eclipse-workspace/Team6-BestAssured/src/test/resources/featurefiles/04assignment.feature",
 				
-				"/Users/amruta/eclipse-workspace/team6-RestAssuredBDD/Team6-BestAssured/src/test/resources/featurefiles/05submission.feature"
+				"/Users/nihar/eclipse-workspace/Team6-BestAssured/src/test/resources/featurefiles/05submission.feature"
 				
 				
 				
